@@ -1,0 +1,181 @@
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe.config
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe.config
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe.config
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.exe
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\V3\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe.config
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe.config
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe.config
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CopyComplete
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.exe
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.pdb
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe.config
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.pdb
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.pdb
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe.config
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.pdb
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe.config
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.exe
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe.config
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe.config
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe.config
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.exe
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe.config
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe.config
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe.config
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.exe
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.dll.config
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.Core.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Statistics.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.Core.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Statistics.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.dll.config
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe.config
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.Core.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Statistics.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe.config
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe.config
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.Core.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Statistics.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.exe
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.dll.config
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe.config
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.exe
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BL.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.Core.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Statistics.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\BE.exe.config
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\DAL.exe.config
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Math.Core.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Accord.Statistics.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\MetadataExtractor.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\XmpCore.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\bin\Debug\EntityFramework.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.exe
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\BL\obj\Debug\BL.pdb

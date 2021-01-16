@@ -1,0 +1,601 @@
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe.config
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.pdb
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.pdb
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe.config
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.pdb
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe.config
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.pdb
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe.config
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.pdb
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.xml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csprojAssemblyReference.cache
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.g.cs
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.g.cs
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.g.cs
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.cache
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.lref
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.baml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.baml
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.g.resources
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.Properties.Resources.resources
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.GenerateResource.cache
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CoreCompileInputs.cache
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CopyComplete
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.exe
+C:\Users\sara leah\Downloads\WPF_Detecting_rocket_hits (1)\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe.config
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe.config
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe.config
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe.config
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.pdb
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.xml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csprojAssemblyReference.cache
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.g.cs
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.g.cs
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.g.cs
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.cache
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.lref
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.baml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.baml
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.g.resources
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.Properties.Resources.resources
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.GenerateResource.cache
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CoreCompileInputs.cache
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CopyComplete
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.exe
+C:\Users\sara leah\Desktop\project\The Project03\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csprojAssemblyReference.cache
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.cache
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.lref
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.exe
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe.config
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe.config
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe.config
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe.config
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.g.resources
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.Properties.Resources.resources
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.GenerateResource.cache
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CoreCompileInputs.cache
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CopyComplete
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\addFall.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\addFall.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\map.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\map.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll.config
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.dll
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.xml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll.config
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe.config
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe.config
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe.config
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe.config
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.xml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csprojAssemblyReference.cache
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddFall.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Map.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.cache
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.lref
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddFall.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Map.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.g.resources
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.Properties.Resources.resources
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.GenerateResource.cache
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CoreCompileInputs.cache
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CopyComplete
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.exe
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.pdb
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.baml
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.g.cs
+C:\Users\יוסף\Downloads\The Project08\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll.config
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe.config
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.pdb
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.pdb
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe.config
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.pdb
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe.config
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.pdb
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe.config
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.pdb
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.pdb
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.xml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csprojAssemblyReference.cache
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddFall.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Map.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.cache
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.lref
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddFall.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Map.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.baml
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.g.resources
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.Properties.Resources.resources
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.GenerateResource.cache
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CoreCompileInputs.cache
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CopyComplete
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.exe
+C:\Users\יוסף\Downloads\The Project09\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.pdb
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.g.cs
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.baml
+C:\Users\sara leah\Desktop\project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll.config
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe.config
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.pdb
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.pdb
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe.config
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.pdb
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe.config
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.pdb
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe.config
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.pdb
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.pdb
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.xml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csprojAssemblyReference.cache
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddFall.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Map.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.cache
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.lref
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddFall.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Map.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.baml
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.g.resources
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.Properties.Resources.resources
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.GenerateResource.cache
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CoreCompileInputs.cache
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CopyComplete
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.exe
+C:\Users\sara leah\Desktop\project\The Project\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll.config
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe.config
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.exe
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MVVM_PL.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BE.exe.config
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\BL.exe.config
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\DAL.exe.config
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Dragablz.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.MachineLearning.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Statistics.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\MetadataExtractor.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\Accord.Math.Core.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\XmpCore.xml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csprojAssemblyReference.cache
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddFall.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Map.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.cache
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL_MarkupCompile.lref
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\App.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MainWindow.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddFall.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AddUser.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\AnalisticW.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Analystic.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Graph1.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Login.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Map.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Report.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\SearchWithMap.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\View\Sign.baml
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.g.resources
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.Properties.Resources.resources
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.GenerateResource.cache
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CoreCompileInputs.cache
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.csproj.CopyComplete
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.exe
+C:\Users\shnahari\Downloads\The Project\WPF_Detecting_rocket_hits\MVVM_PL\obj\Debug\MVVM_PL.pdb
